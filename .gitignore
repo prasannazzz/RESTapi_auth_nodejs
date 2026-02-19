@@ -137,3 +137,8 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# NeDB database files
+Users.db
+UserRefreshTokens.db
+UserInvalidTokens.db
